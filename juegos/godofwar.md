@@ -11,3 +11,6 @@ Kratos, un guerrero espartano al servicio de los dioses del Olimpo, busca vengar
 
 ## Imagen
 ![God of War Art](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYUeMNI6lZDXB5VkLQWqHHsRFwCuYcIFcnrEjSML__ncEEzAOEbZWKmndfPPOG34vqGAJgUmORrhGf7_AnV9iqhKWzr6MU1TU7aXMcGOcHCT_f_K5Xh7P7AhM98NLMeQ&s=10&ec=121630492)
+
+## Reseña
+God of War revolucionó el género de acción con su combate brutal, mitología griega y una narrativa intensa, convirtiéndose en un referente de los videojuegos en PlayStation.
