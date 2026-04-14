@@ -22,3 +22,17 @@ The Legend of Zelda es una aventura épica de acción y fantasía ambientada en 
 *Figura 1: Ilustración oficial de Link, el protagonista de la entrega original de 1986.*
 
 [Haz clic aquí para ver la imagen en alta resolución](https://archives.bulbagarden.net/media/upload/b/b1/Link_LOZ_Art.png)
+
+Reseña Crítica y Puntuación
+The Legend of Zelda es considerado uno de los títulos más influyentes de la historia de los videojuegos. La crítica especializada ha elogiado constantemente su diseño de niveles, su innovadora jugabilidad de mundo abierto y su banda sonora icónica.
+
+Puntuaciones Destacadas:
+IGN: 9/10 (Great)
+
+GameSpot: 9.2/10
+
+Nintendo Life: 9/10
+
+Metacritic (Classic NES Series): 84/100
+
+"Más que un simple juego, es una piedra angular del diseño que definió el género de aventura y acción para las décadas siguientes."
