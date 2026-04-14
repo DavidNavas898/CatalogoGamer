@@ -8,5 +8,5 @@
 7. [God of war](juegos/godofwar.md)
 8. [Minecraft](juegos/minecraft.md)
 9. Rocket league 
-10. Valorant
+10. [valorant](juegos/valorant.md)
 
