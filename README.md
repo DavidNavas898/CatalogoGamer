@@ -7,6 +7,6 @@
 6. [Uncharted](juegos/uncharted.md)
 7. [God of war](juegos/godofwar.md)
 8. [Minecraft](juegos/minecraft.md)
-9. Rocket league 
+9. [rocket league](juegos/rocket-league.md)
 10. [valorant](juegos/valorant.md)
 
